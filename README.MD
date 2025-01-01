@@ -14,12 +14,7 @@
 <a href="https://dio.me/">
 
 
-<p align="center">
-    preview do podcast
-</p>
 
-<div align="center">
-    <audio src="/podcast_editado.mp4" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
